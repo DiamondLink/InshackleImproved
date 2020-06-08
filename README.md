@@ -4,7 +4,11 @@ When increasing followers with inshackle, the script can stop due to timeout or 
 
 This inshackle version improves the "increase follower" function, so the script never stops and you can leave it running for a very long time, and it will bring you thousands of followers
 
-Also, other cool features were added : you can now chose youre followers nationality. 
+Also, the cookies weren't working well, so they were replaced by credentials.
 
 ## Usage
 Almost the same as thelinuxchoice's inshackle, the menu is a little bit modified.
+
+## Planned features
+I'm planning to add a feature which allows you to chose youre follower's nationality.
+
